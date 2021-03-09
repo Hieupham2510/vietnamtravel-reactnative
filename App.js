@@ -29,7 +29,6 @@ const SplashScreen = ({navigation}) => {
 };
 const HomeScreen = ({navigation}) => {
   const [loading, setLoading] = useState(true);
-
   return (
     <>
       <View style={{flex: 1}}>
